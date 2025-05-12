@@ -7,3 +7,4 @@ will add video adress to readme and add video title on top of the code
 - restructure the file layout of my practice
 - practice github and the interaction with vscode
 - updating what I should learn this summer
+- Renaming file to CSLearning Resources Hub

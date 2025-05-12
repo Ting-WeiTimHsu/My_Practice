@@ -6,3 +6,4 @@ will add video adress to readme and add video title on top of the code
 - practice git and action to pull and push to github again.
 - restructure the file layout of my practice
 - practice github and the interaction with vscode
+- updating what I should learn this summer
